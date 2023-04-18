@@ -1,5 +1,6 @@
-# 6BBG0303_report
+# A bioinformatics approach for quantifying and modelling cellular variabilities of nonsense-mediated mRNA decay
 
-this repository contains a set of scripts etc and objects... for the analysis of ____ as part of the module.
+This repository contains scripts and objects used for the bioinformatics analysis of cellullar variabilities of NMD, as part of King's College London undergraduate research module [6BBG0303].
+
 
 `seurat`
