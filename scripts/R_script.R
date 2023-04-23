@@ -1,8 +1,5 @@
 setwd("/Users/anthonybooker")
 
-### IMPORTANT: GIVE THE NMD_METRIC A PROPER NAME IN THE GRAPHS
-
-
 # PACKAGE CAR PARK ----
 library(sp)
 library(SeuratObject)
